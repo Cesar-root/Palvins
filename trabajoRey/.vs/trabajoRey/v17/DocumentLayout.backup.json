@@ -3,16 +3,20 @@
   "WorkspaceRootPath": "C:\\Users\\reyna\\Documents\\GitHub\\Palvins\\trabajoRey\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{27AFF7F8-49EC-46EF-9934-6B248A5DFB66}|trabajoRey\\trabajoRey.csproj|c:\\users\\reyna\\documents\\github\\palvins\\trabajorey\\trabajorey\\empresa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{27AFF7F8-49EC-46EF-9934-6B248A5DFB66}|trabajoRey\\trabajoRey.csproj|solutionrelative:trabajorey\\empresa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{27AFF7F8-49EC-46EF-9934-6B248A5DFB66}|trabajoRey\\trabajoRey.csproj|C:\\Users\\reyna\\Documents\\GitHub\\Palvins\\trabajoRey\\trabajorey\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{27AFF7F8-49EC-46EF-9934-6B248A5DFB66}|trabajoRey\\trabajoRey.csproj|solutionrelative:trabajorey\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{27AFF7F8-49EC-46EF-9934-6B248A5DFB66}|trabajoRey\\trabajoRey.csproj|c:\\users\\reyna\\documents\\github\\palvins\\trabajorey\\trabajorey\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{27AFF7F8-49EC-46EF-9934-6B248A5DFB66}|trabajoRey\\trabajoRey.csproj|solutionrelative:trabajorey\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{27AFF7F8-49EC-46EF-9934-6B248A5DFB66}|trabajoRey\\trabajoRey.csproj|c:\\users\\reyna\\documents\\github\\palvins\\trabajorey\\trabajorey\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{27AFF7F8-49EC-46EF-9934-6B248A5DFB66}|trabajoRey\\trabajoRey.csproj|solutionrelative:trabajorey\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{27AFF7F8-49EC-46EF-9934-6B248A5DFB66}|trabajoRey\\trabajoRey.csproj|C:\\Users\\reyna\\Documents\\GitHub\\Palvins\\trabajoRey\\trabajorey\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{27AFF7F8-49EC-46EF-9934-6B248A5DFB66}|trabajoRey\\trabajoRey.csproj|solutionrelative:trabajorey\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+      "AbsoluteMoniker": "D:0:0:{27AFF7F8-49EC-46EF-9934-6B248A5DFB66}|trabajoRey\\trabajoRey.csproj|c:\\users\\reyna\\documents\\github\\palvins\\trabajorey\\trabajorey\\empresa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{27AFF7F8-49EC-46EF-9934-6B248A5DFB66}|trabajoRey\\trabajoRey.csproj|solutionrelative:trabajorey\\empresa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -22,17 +26,17 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 3,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 3,
               "Title": "Empresa.cs",
               "DocumentMoniker": "C:\\Users\\reyna\\Documents\\GitHub\\Palvins\\trabajoRey\\trabajoRey\\Empresa.cs",
               "RelativeDocumentMoniker": "trabajoRey\\Empresa.cs",
-              "ToolTip": "C:\\Users\\reyna\\Documents\\GitHub\\Palvins\\trabajoRey\\trabajoRey\\Empresa.cs",
-              "RelativeToolTip": "trabajoRey\\Empresa.cs",
-              "ViewState": "AgIAAAgAAAAAAAAAAAAxwCMAAAAAAAAAAAAAAA==",
+              "ToolTip": "C:\\Users\\reyna\\Documents\\GitHub\\Palvins\\trabajoRey\\trabajoRey\\Empresa.cs*",
+              "RelativeToolTip": "trabajoRey\\Empresa.cs*",
+              "ViewState": "AgIAAC4AAAAAAAAAAAAAACQAAAAdAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-10-23T20:48:07.696Z",
               "IsPinned": true,
@@ -41,24 +45,37 @@
             {
               "$type": "Document",
               "DocumentIndex": 1,
+              "Title": "Form1.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\reyna\\Documents\\GitHub\\Palvins\\trabajoRey\\trabajoRey\\Form1.Designer.cs",
+              "RelativeDocumentMoniker": "trabajoRey\\Form1.Designer.cs",
+              "ToolTip": "C:\\Users\\reyna\\Documents\\GitHub\\Palvins\\trabajoRey\\trabajoRey\\Form1.Designer.cs*",
+              "RelativeToolTip": "trabajoRey\\Form1.Designer.cs*",
+              "ViewState": "AgIAAK8AAAAAAAAAAAAAwL4AAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-23T22:35:33.171Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
               "Title": "Form1.cs",
               "DocumentMoniker": "C:\\Users\\reyna\\Documents\\GitHub\\Palvins\\trabajoRey\\trabajoRey\\Form1.cs",
               "RelativeDocumentMoniker": "trabajoRey\\Form1.cs",
-              "ToolTip": "C:\\Users\\reyna\\Documents\\GitHub\\Palvins\\trabajoRey\\trabajoRey\\Form1.cs",
-              "RelativeToolTip": "trabajoRey\\Form1.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAEcAAAAAAAAAAAAAAA==",
+              "ToolTip": "C:\\Users\\reyna\\Documents\\GitHub\\Palvins\\trabajoRey\\trabajoRey\\Form1.cs*",
+              "RelativeToolTip": "trabajoRey\\Form1.cs*",
+              "ViewState": "AgIAAEUAAAAAAAAAAAAuwFgAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-10-23T20:40:28.884Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 0,
               "Title": "Form1.cs [Dise\u00F1o]",
               "DocumentMoniker": "C:\\Users\\reyna\\Documents\\GitHub\\Palvins\\trabajoRey\\trabajoRey\\Form1.cs",
               "RelativeDocumentMoniker": "trabajoRey\\Form1.cs",
-              "ToolTip": "C:\\Users\\reyna\\Documents\\GitHub\\Palvins\\trabajoRey\\trabajoRey\\Form1.cs [Dise\u00F1o]",
-              "RelativeToolTip": "trabajoRey\\Form1.cs [Dise\u00F1o]",
+              "ToolTip": "C:\\Users\\reyna\\Documents\\GitHub\\Palvins\\trabajoRey\\trabajoRey\\Form1.cs [Dise\u00F1o]*",
+              "RelativeToolTip": "trabajoRey\\Form1.cs [Dise\u00F1o]*",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-10-23T20:02:00.667Z",
               "EditorCaption": " [Dise\u00F1o]"
