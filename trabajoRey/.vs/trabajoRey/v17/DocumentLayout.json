@@ -1,13 +1,17 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\15ago\\OneDrive\\Escritorio\\Palvins-Proyecto\\trabajoRey\\",
+  "WorkspaceRootPath": "C:\\Users\\reyna\\Documents\\GitHub\\Palvins\\trabajoRey\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{27AFF7F8-49EC-46EF-9934-6B248A5DFB66}|trabajoRey\\trabajoRey.csproj|c:\\users\\15ago\\onedrive\\escritorio\\palvins-proyecto\\trabajorey\\trabajorey\\empresa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{27AFF7F8-49EC-46EF-9934-6B248A5DFB66}|trabajoRey\\trabajoRey.csproj|c:\\users\\reyna\\documents\\github\\palvins\\trabajorey\\trabajorey\\empresa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{27AFF7F8-49EC-46EF-9934-6B248A5DFB66}|trabajoRey\\trabajoRey.csproj|solutionrelative:trabajorey\\empresa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{27AFF7F8-49EC-46EF-9934-6B248A5DFB66}|trabajoRey\\trabajoRey.csproj|C:\\Users\\15ago\\OneDrive\\Escritorio\\Palvins-Proyecto\\trabajoRey\\trabajorey\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{27AFF7F8-49EC-46EF-9934-6B248A5DFB66}|trabajoRey\\trabajoRey.csproj|c:\\users\\reyna\\documents\\github\\palvins\\trabajorey\\trabajorey\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{27AFF7F8-49EC-46EF-9934-6B248A5DFB66}|trabajoRey\\trabajoRey.csproj|solutionrelative:trabajorey\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{27AFF7F8-49EC-46EF-9934-6B248A5DFB66}|trabajoRey\\trabajoRey.csproj|C:\\Users\\reyna\\Documents\\GitHub\\Palvins\\trabajoRey\\trabajorey\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{27AFF7F8-49EC-46EF-9934-6B248A5DFB66}|trabajoRey\\trabajoRey.csproj|solutionrelative:trabajorey\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     }
   ],
@@ -18,35 +22,46 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 0,
           "Children": [
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
-            },
             {
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Empresa.cs",
-              "DocumentMoniker": "C:\\Users\\15ago\\OneDrive\\Escritorio\\Palvins-Proyecto\\trabajoRey\\trabajoRey\\Empresa.cs",
+              "DocumentMoniker": "C:\\Users\\reyna\\Documents\\GitHub\\Palvins\\trabajoRey\\trabajoRey\\Empresa.cs",
               "RelativeDocumentMoniker": "trabajoRey\\Empresa.cs",
-              "ToolTip": "C:\\Users\\15ago\\OneDrive\\Escritorio\\Palvins-Proyecto\\trabajoRey\\trabajoRey\\Empresa.cs",
+              "ToolTip": "C:\\Users\\reyna\\Documents\\GitHub\\Palvins\\trabajoRey\\trabajoRey\\Empresa.cs",
               "RelativeToolTip": "trabajoRey\\Empresa.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABcAAAAgAAAA",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAxwCMAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-23T20:06:50.157Z",
+              "WhenOpened": "2024-10-23T20:48:07.696Z",
+              "IsPinned": true,
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\reyna\\Documents\\GitHub\\Palvins\\trabajoRey\\trabajoRey\\Form1.cs",
+              "RelativeDocumentMoniker": "trabajoRey\\Form1.cs",
+              "ToolTip": "C:\\Users\\reyna\\Documents\\GitHub\\Palvins\\trabajoRey\\trabajoRey\\Form1.cs",
+              "RelativeToolTip": "trabajoRey\\Form1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAEcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-23T20:40:28.884Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
               "Title": "Form1.cs [Dise\u00F1o]",
-              "DocumentMoniker": "C:\\Users\\15ago\\OneDrive\\Escritorio\\Palvins-Proyecto\\trabajoRey\\trabajoRey\\Form1.cs",
+              "DocumentMoniker": "C:\\Users\\reyna\\Documents\\GitHub\\Palvins\\trabajoRey\\trabajoRey\\Form1.cs",
               "RelativeDocumentMoniker": "trabajoRey\\Form1.cs",
               "ToolTip": "C:\\Users\\reyna\\Documents\\GitHub\\Palvins\\trabajoRey\\trabajoRey\\Form1.cs [Dise\u00F1o]",
-              "RelativeToolTip": "..\\..\\..\\..\\..\\reyna\\Documents\\GitHub\\Palvins\\trabajoRey\\trabajoRey\\Form1.cs [Dise\u00F1o]",
+              "RelativeToolTip": "trabajoRey\\Form1.cs [Dise\u00F1o]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-23T20:02:00.667Z"
+              "WhenOpened": "2024-10-23T20:02:00.667Z",
+              "EditorCaption": " [Dise\u00F1o]"
             }
           ]
         }

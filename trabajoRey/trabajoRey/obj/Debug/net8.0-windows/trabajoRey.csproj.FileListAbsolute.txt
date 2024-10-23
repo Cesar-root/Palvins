@@ -1,0 +1,17 @@
+C:\Users\reyna\Documents\GitHub\Palvins\trabajoRey\trabajoRey\bin\Debug\net8.0-windows\trabajoRey.exe
+C:\Users\reyna\Documents\GitHub\Palvins\trabajoRey\trabajoRey\bin\Debug\net8.0-windows\trabajoRey.deps.json
+C:\Users\reyna\Documents\GitHub\Palvins\trabajoRey\trabajoRey\bin\Debug\net8.0-windows\trabajoRey.runtimeconfig.json
+C:\Users\reyna\Documents\GitHub\Palvins\trabajoRey\trabajoRey\bin\Debug\net8.0-windows\trabajoRey.dll
+C:\Users\reyna\Documents\GitHub\Palvins\trabajoRey\trabajoRey\bin\Debug\net8.0-windows\trabajoRey.pdb
+C:\Users\reyna\Documents\GitHub\Palvins\trabajoRey\trabajoRey\obj\Debug\net8.0-windows\trabajoRey.Form1.resources
+C:\Users\reyna\Documents\GitHub\Palvins\trabajoRey\trabajoRey\obj\Debug\net8.0-windows\trabajoRey.csproj.GenerateResource.cache
+C:\Users\reyna\Documents\GitHub\Palvins\trabajoRey\trabajoRey\obj\Debug\net8.0-windows\trabajoRey.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\reyna\Documents\GitHub\Palvins\trabajoRey\trabajoRey\obj\Debug\net8.0-windows\trabajoRey.AssemblyInfoInputs.cache
+C:\Users\reyna\Documents\GitHub\Palvins\trabajoRey\trabajoRey\obj\Debug\net8.0-windows\trabajoRey.AssemblyInfo.cs
+C:\Users\reyna\Documents\GitHub\Palvins\trabajoRey\trabajoRey\obj\Debug\net8.0-windows\trabajoRey.csproj.CoreCompileInputs.cache
+C:\Users\reyna\Documents\GitHub\Palvins\trabajoRey\trabajoRey\obj\Debug\net8.0-windows\trabajoRey.sourcelink.json
+C:\Users\reyna\Documents\GitHub\Palvins\trabajoRey\trabajoRey\obj\Debug\net8.0-windows\trabajoRey.dll
+C:\Users\reyna\Documents\GitHub\Palvins\trabajoRey\trabajoRey\obj\Debug\net8.0-windows\refint\trabajoRey.dll
+C:\Users\reyna\Documents\GitHub\Palvins\trabajoRey\trabajoRey\obj\Debug\net8.0-windows\trabajoRey.pdb
+C:\Users\reyna\Documents\GitHub\Palvins\trabajoRey\trabajoRey\obj\Debug\net8.0-windows\trabajoRey.genruntimeconfig.cache
+C:\Users\reyna\Documents\GitHub\Palvins\trabajoRey\trabajoRey\obj\Debug\net8.0-windows\ref\trabajoRey.dll
