@@ -9,26 +9,44 @@ namespace trabajoRey
     internal class Empresa
     {
         private int _intEmpleados;
-        public int intEmpleados 
+        public int Empleados 
         {
             get { return _intEmpleados; }
             set { _intEmpleados = value; }
         }
-        private string _strProducto;
+        
+       private List<Producto> _listaDeProductos = new List<Producto>();
+       private List<Clientes> _listaDeClientes = new List<Clientes>();
 
-        public string Producto
+        public void IngresarProductos(Producto nuevoProducto) 
         {
-            get { return _strProducto; }
-            set { _strProducto = value; }
+             _listaDeProductos.Add(nuevoProducto);
         }
-        private int _intClientes;
-
-        public int Clientes
+        public void InsertarCliente(Clientes nuevoCliente) 
         {
-            get { return _intClientes; }
-            set { _intClientes = value; }
+            _listaDeClientes.Add(nuevoCliente);
         }
-
+        IEnumerable<Producto> IteradorProductos() 
+        {
+            foreach(Producto unProducto in _listaDeProductos) 
+            {
+                _listaDeProductos.GetEnumerator();
+            }
+            return _listaDeProductos;
+        }
+        IEnumerable<Clientes> IteradorClientes()
+        {
+            foreach (Clientes unCliente in _listaDeClientes)
+            {
+                _listaDeClientes.GetEnumerator();
+            }
+            return _listaDeClientes;
+        }
+        ~Empresa() 
+        {
+            _listaDeClientes.Clear();
+            _listaDeProductos.Clear();
+        }
 
     }
 }
