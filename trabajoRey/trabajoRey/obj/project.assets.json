@@ -8,19 +8,24 @@
     "net8.0-windows7.0": []
   },
   "packageFolders": {
-    "C:\\Users\\reyna\\.nuget\\packages\\": {}
+    "C:\\Users\\15ago\\.nuget\\packages\\": {},
+    "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\reyna\\Documents\\GitHub\\Palvins\\trabajoRey\\trabajoRey\\trabajoRey.csproj",
+      "projectUniqueName": "C:\\Users\\15ago\\OneDrive\\Escritorio\\Palvins-Proyecto\\trabajoRey\\trabajoRey\\trabajoRey.csproj",
       "projectName": "trabajoRey",
-      "projectPath": "C:\\Users\\reyna\\Documents\\GitHub\\Palvins\\trabajoRey\\trabajoRey\\trabajoRey.csproj",
-      "packagesPath": "C:\\Users\\reyna\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\reyna\\Documents\\GitHub\\Palvins\\trabajoRey\\trabajoRey\\obj\\",
+      "projectPath": "C:\\Users\\15ago\\OneDrive\\Escritorio\\Palvins-Proyecto\\trabajoRey\\trabajoRey\\trabajoRey.csproj",
+      "packagesPath": "C:\\Users\\15ago\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\15ago\\OneDrive\\Escritorio\\Palvins-Proyecto\\trabajoRey\\trabajoRey\\obj\\",
       "projectStyle": "PackageReference",
+      "fallbackFolders": [
+        "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+      ],
       "configFilePaths": [
-        "C:\\Users\\reyna\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\15ago\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -28,6 +33,7 @@
       ],
       "sources": {
         "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "C:\\Program Files\\dotnet\\library-packs": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
@@ -69,7 +75,7 @@
             "privateAssets": "none"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.403/PortableRuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.302/PortableRuntimeIdentifierGraph.json"
       }
     }
   }
